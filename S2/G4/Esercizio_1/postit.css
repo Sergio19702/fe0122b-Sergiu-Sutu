@@ -1,0 +1,22 @@
+body{
+    font-family: 'Indie Flower';;
+}
+
+.container{
+    font-size: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    Justify-content: space-evenly;
+    flex-basis: 20%;
+    padding: 10%;
+    height: 35vh;
+    align-items: center;
+}
+div div{
+    padding: 20px;
+    border: 1px solid black;
+    flex-shrink: 1 ;
+}
+div div p:first-child{
+    font-weight: bold;
+}
