@@ -1,0 +1,416 @@
+h1 {
+    color: black;
+    animation: changecolor 10s infinite;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+@keyframes changecolor {
+
+    0% {
+        background: linear-gradient(to right, lightcoral 33%, yellow 33%, yellow 66%, lightgreen 66%, lightgreen 100%);
+    }
+
+    1% {
+        background: linear-gradient(to right, lightcoral 32%, yellow 32%, yellow 65%, lightgreen 65%, lightgreen 98%, lightcoral 98%, lightcoral 100%);
+    }
+
+    2% {
+        background: linear-gradient(to right, lightcoral 31%, yellow 31%, yellow 64%, lightgreen 64%, lightgreen 97%, lightcoral 97%, lightcoral 100%);
+    }
+
+    3% {
+        background: linear-gradient(to right, lightcoral 30%, yellow 30%, yellow 63%, lightgreen 63%, lightgreen 96%, lightcoral 96%, lightcoral 100%);
+    }
+
+    4% {
+        background: linear-gradient(to right, lightcoral 29%, yellow 29%, yellow 62%, lightgreen 62%, lightgreen 95%, lightcoral 95%, lightcoral 100%);
+    }
+
+    5% {
+        background: linear-gradient(to right, lightcoral 28%, yellow 28%, yellow 61%, lightgreen 61%, lightgreen 94%, lightcoral 94%, lightcoral 100%);
+    }
+
+    6% {
+        background: linear-gradient(to right, lightcoral 27%, yellow 27%, yellow 60%, lightgreen 60%, lightgreen 93%, lightcoral 93%, lightcoral 100%);
+    }
+
+    7% {
+        background: linear-gradient(to right, lightcoral 26%, yellow 26%, yellow 59%, lightgreen 59%, lightgreen 92%, lightcoral 92%, lightcoral 100%);
+    }
+
+    8% {
+        background: linear-gradient(to right, lightcoral 25%, yellow 25%, yellow 58%, lightgreen 58%, lightgreen 91%, lightcoral 91%, lightcoral 100%);
+    }
+
+    9% {
+        background: linear-gradient(to right, lightcoral 24%, yellow 24%, yellow 57%, lightgreen 57%, lightgreen 90%, lightcoral 90%, lightcoral 100%);
+    }
+
+    10% {
+        background: linear-gradient(to right, lightcoral 23%, yellow 23%, yellow 56%, lightgreen 56%, lightgreen 89%, lightcoral 89%, lightcoral 100%);
+    }
+
+    11% {
+        background: linear-gradient(to right, lightcoral 22%, yellow 22%, yellow 55%, lightgreen 55%, lightgreen 88%, lightcoral 88%, lightcoral 100%);
+    }
+
+    12% {
+        background: linear-gradient(to right, lightcoral 21%, yellow 21%, yellow 54%, lightgreen 54%, lightgreen 87%, lightcoral 87%, lightcoral 100%);
+    }
+
+    13% {
+        background: linear-gradient(to right, lightcoral 20%, yellow 20%, yellow 53%, lightgreen 53%, lightgreen 86%, lightcoral 86%, lightcoral 100%);
+    }
+
+    14% {
+        background: linear-gradient(to right, lightcoral 19%, yellow 19%, yellow 52%, lightgreen 52%, lightgreen 85%, lightcoral 85%, lightcoral 100%);
+    }
+
+    15% {
+        background: linear-gradient(to right, lightcoral 18%, yellow 18%, yellow 51%, lightgreen 51%, lightgreen 84%, lightcoral 84%, lightcoral 100%);
+    }
+
+    16% {
+        background: linear-gradient(to right, lightcoral 17%, yellow 17%, yellow 50%, lightgreen 50%, lightgreen 83%, lightcoral 83%, lightcoral 100%);
+    }
+
+    17% {
+        background: linear-gradient(to right, lightcoral 16%, yellow 16%, yellow 49%, lightgreen 49%, lightgreen 82%, lightcoral 82%, lightcoral 100%);
+    }
+
+    18% {
+        background: linear-gradient(to right, lightcoral 15%, yellow 15%, yellow 48%, lightgreen 48%, lightgreen 81%, lightcoral 81%, lightcoral 100%);
+    }
+
+    19% {
+        background: linear-gradient(to right, lightcoral 14%, yellow 14%, yellow 47%, lightgreen 47%, lightgreen 80%, lightcoral 80%, lightcoral 100%);
+    }
+
+    20% {
+        background: linear-gradient(to right, lightcoral 13%, yellow 13%, yellow 46%, lightgreen 46%, lightgreen 79%, lightcoral 79%, lightcoral 100%);
+    }
+
+    21% {
+        background: linear-gradient(to right, lightcoral 12%, yellow 12%, yellow 45%, lightgreen 45%, lightgreen 78%, lightcoral 78%, lightcoral 100%);
+    }
+
+    22% {
+        background: linear-gradient(to right, lightcoral 11%, yellow 11%, yellow 44%, lightgreen 44%, lightgreen 77%, lightcoral 77%, lightcoral 100%);
+    }
+
+    23% {
+        background: linear-gradient(to right, lightcoral 10%, yellow 10%, yellow 43%, lightgreen 43%, lightgreen 76%, lightcoral 76%, lightcoral 100%);
+    }
+
+    24% {
+        background: linear-gradient(to right, lightcoral 09%, yellow 09%, yellow 42%, lightgreen 42%, lightgreen 75%, lightcoral 75%, lightcoral 100%);
+    }
+
+    25% {
+        background: linear-gradient(to right, lightcoral 08%, yellow 08%, yellow 41%, lightgreen 41%, lightgreen 74%, lightcoral 74%, lightcoral 100%);
+    }
+
+    26% {
+        background: linear-gradient(to right, lightcoral 07%, yellow 07%, yellow 40%, lightgreen 40%, lightgreen 73%, lightcoral 73%, lightcoral 100%);
+    }
+
+    27% {
+        background: linear-gradient(to right, lightcoral 06%, yellow 06%, yellow 39%, lightgreen 39%, lightgreen 72%, lightcoral 72%, lightcoral 100%);
+    }
+
+    28% {
+        background: linear-gradient(to right, lightcoral 05%, yellow 05%, yellow 38%, lightgreen 38%, lightgreen 71%, lightcoral 71%, lightcoral 100%);
+    }
+
+    29% {
+        background: linear-gradient(to right, lightcoral 04%, yellow 04%, yellow 37%, lightgreen 37%, lightgreen 70%, lightcoral 70%, lightcoral 100%);
+    }
+
+    30% {
+        background: linear-gradient(to right, lightcoral 03%, yellow 03%, yellow 36%, lightgreen 36%, lightgreen 69%, lightcoral 69%, lightcoral 100%);
+    }
+
+    31% {
+        background: linear-gradient(to right, lightcoral 02%, yellow 02%, yellow 35%, lightgreen 35%, lightgreen 68%, lightcoral 68%, lightcoral 100%);
+    }
+
+    32% {
+        background: linear-gradient(to right, lightcoral 01%, yellow 01%, yellow 34%, lightgreen 34%, lightgreen 67%, lightcoral 67%, lightcoral 100%);
+    }
+
+    33% {
+        background: linear-gradient(to right, yellow 33%, lightgreen 33%, lightgreen 66%, lightcoral 66%, lightcoral 99%);
+    }
+
+    34% {
+        background: linear-gradient(to right, yellow 32%, lightgreen 32%, lightgreen 65%, lightcoral 65%, lightcoral 98%, yellow 98%, yellow 100%);
+    }
+
+    35% {
+        background: linear-gradient(to right, yellow 31%, lightgreen 31%, lightgreen 64%, lightcoral 64%, lightcoral 97%, yellow 97%, yellow 100%);
+    }
+
+    36% {
+        background: linear-gradient(to right, yellow 30%, lightgreen 30%, lightgreen 63%, lightcoral 63%, lightcoral 96%, yellow 96%, yellow 100%);
+    }
+
+    37% {
+        background: linear-gradient(to right, yellow 29%, lightgreen 29%, lightgreen 62%, lightcoral 62%, lightcoral 95%, yellow 95%, yellow 100%);
+    }
+
+    38% {
+        background: linear-gradient(to right, yellow 28%, lightgreen 28%, lightgreen 61%, lightcoral 61%, lightcoral 94%, yellow 94%, yellow 100%);
+    }
+
+    39% {
+        background: linear-gradient(to right, yellow 27%, lightgreen 27%, lightgreen 60%, lightcoral 60%, lightcoral 93%, yellow 93%, yellow 100%);
+    }
+
+    40% {
+        background: linear-gradient(to right, yellow 26%, lightgreen 26%, lightgreen 59%, lightcoral 59%, lightcoral 92%, yellow 92%, yellow 100%);
+    }
+
+    41% {
+        background: linear-gradient(to right, yellow 25%, lightgreen 25%, lightgreen 58%, lightcoral 58%, lightcoral 91%, yellow 91%, yellow 100%);
+    }
+
+    42% {
+        background: linear-gradient(to right, yellow 24%, lightgreen 24%, lightgreen 57%, lightcoral 57%, lightcoral 90%, yellow 90%, yellow 100%);
+    }
+
+    43% {
+        background: linear-gradient(to right, yellow 23%, lightgreen 23%, lightgreen 56%, lightcoral 56%, lightcoral 89%, yellow 89%, yellow 100%);
+    }
+
+    44% {
+        background: linear-gradient(to right, yellow 22%, lightgreen 22%, lightgreen 55%, lightcoral 55%, lightcoral 88%, yellow 88%, yellow 100%);
+    }
+
+    45% {
+        background: linear-gradient(to right, yellow 21%, lightgreen 21%, lightgreen 54%, lightcoral 54%, lightcoral 87%, yellow 87%, yellow 100%);
+    }
+
+    46% {
+        background: linear-gradient(to right, yellow 20%, lightgreen 20%, lightgreen 53%, lightcoral 53%, lightcoral 86%, yellow 86%, yellow 100%);
+    }
+
+    47% {
+        background: linear-gradient(to right, yellow 19%, lightgreen 19%, lightgreen 52%, lightcoral 52%, lightcoral 85%, yellow 85%, yellow 100%);
+    }
+
+    48% {
+        background: linear-gradient(to right, yellow 18%, lightgreen 18%, lightgreen 51%, lightcoral 51%, lightcoral 84%, yellow 84%, yellow 100%);
+    }
+
+    49% {
+        background: linear-gradient(to right, yellow 17%, lightgreen 17%, lightgreen 50%, lightcoral 50%, lightcoral 83%, yellow 83%, yellow 100%);
+    }
+
+    50% {
+        background: linear-gradient(to right, yellow 16%, lightgreen 16%, lightgreen 49%, lightcoral 49%, lightcoral 82%, yellow 82%, yellow 100%);
+    }
+
+    51% {
+        background: linear-gradient(to right, yellow 15%, lightgreen 15%, lightgreen 48%, lightcoral 48%, lightcoral 81%, yellow 81%, yellow 100%);
+    }
+
+    52% {
+        background: linear-gradient(to right, yellow 14%, lightgreen 14%, lightgreen 47%, lightcoral 47%, lightcoral 80%, yellow 80%, yellow 100%);
+    }
+
+    53% {
+        background: linear-gradient(to right, yellow 13%, lightgreen 13%, lightgreen 46%, lightcoral 46%, lightcoral 79%, yellow 79%, yellow 100%);
+    }
+
+    54% {
+        background: linear-gradient(to right, yellow 12%, lightgreen 12%, lightgreen 45%, lightcoral 45%, lightcoral 78%, yellow 78%, yellow 100%);
+    }
+
+    55% {
+        background: linear-gradient(to right, yellow 11%, lightgreen 11%, lightgreen 44%, lightcoral 44%, lightcoral 77%, yellow 77%, yellow 100%);
+    }
+
+    56% {
+        background: linear-gradient(to right, yellow 10%, lightgreen 10%, lightgreen 43%, lightcoral 43%, lightcoral 76%, yellow 76%, yellow 100%);
+    }
+
+    57% {
+        background: linear-gradient(to right, yellow 09%, lightgreen 09%, lightgreen 42%, lightcoral 42%, lightcoral 75%, yellow 75%, yellow 100%);
+    }
+
+    58% {
+        background: linear-gradient(to right, yellow 08%, lightgreen 08%, lightgreen 41%, lightcoral 41%, lightcoral 74%, yellow 74%, yellow 100%);
+    }
+
+    59% {
+        background: linear-gradient(to right, yellow 07%, lightgreen 07%, lightgreen 40%, lightcoral 40%, lightcoral 73%, yellow 73%, yellow 100%);
+    }
+
+    60% {
+        background: linear-gradient(to right, yellow 06%, lightgreen 06%, lightgreen 39%, lightcoral 39%, lightcoral 72%, yellow 72%, yellow 100%);
+    }
+
+    61% {
+        background: linear-gradient(to right, yellow 05%, lightgreen 05%, lightgreen 38%, lightcoral 38%, lightcoral 71%, yellow 71%, yellow 100%);
+    }
+
+    62% {
+        background: linear-gradient(to right, yellow 04%, lightgreen 04%, lightgreen 37%, lightcoral 37%, lightcoral 70%, yellow 70%, yellow 100%);
+    }
+
+    63% {
+        background: linear-gradient(to right, yellow 03%, lightgreen 03%, lightgreen 36%, lightcoral 36%, lightcoral 69%, yellow 69%, yellow 100%);
+    }
+
+    64% {
+        background: linear-gradient(to right, yellow 02%, lightgreen 02% lightgreen 35%, lightcoral 35%, lightcoral 68%, yellow 68%, yellow 100%);
+    }
+
+    65% {
+        background: linear-gradient(to right, yellow 01%, lightgreen 01% lightgreen 34%, lightcoral 34%, lightcoral 67%, yellow 67%, yellow 100%);
+    }
+
+    66% {
+        background: linear-gradient(to right, lightgreen 33%, lightcoral 33%, lightcoral 66%, yellow 66%, yellow 99%);
+    }
+
+    67% {
+        background: linear-gradient(to right, lightgreen 32%, lightcoral 32%, lightcoral 65%, yellow 65%, yellow 98%, lightgreen 98%, lightgreen 100%);
+    }
+
+    68% {
+        background: linear-gradient(to right, lightgreen 31%, lightcoral 31%, lightcoral 64%, yellow 64%, yellow 97%, lightgreen 97%, lightgreen 100%);
+    }
+
+    69% {
+        background: linear-gradient(to right, lightgreen 30%, lightcoral 30%, lightcoral 63%, yellow 63%, yellow 96%, lightgreen 96%, lightgreen 100%);
+    }
+
+    70% {
+        background: linear-gradient(to right, lightgreen 29%, lightcoral 29%, lightcoral 62%, yellow 62%, yellow 95%, lightgreen 95%, lightgreen 100%);
+    }
+
+    71% {
+        background: linear-gradient(to right, lightgreen 28%, lightcoral 28%, lightcoral 61%, yellow 61%, yellow 94%, lightgreen 94%, lightgreen 100%);
+    }
+
+    72% {
+        background: linear-gradient(to right, lightgreen 27%, lightcoral 27%, lightcoral 60%, yellow 60%, yellow 93%, lightgreen 93%, lightgreen 100%);
+    }
+
+    73% {
+        background: linear-gradient(to right, lightgreen 26%, lightcoral 26%, lightcoral 59%, yellow 59%, yellow 92%, lightgreen 92%, lightgreen 100%);
+    }
+
+    74% {
+        background: linear-gradient(to right, lightgreen 25%, lightcoral 25%, lightcoral 58%, yellow 58%, yellow 91%, lightgreen 91%, lightgreen 100%);
+    }
+
+    75% {
+        background: linear-gradient(to right, lightgreen 24%, lightcoral 24%, lightcoral 57%, yellow 57%, yellow 90%, lightgreen 90%, lightgreen 100%);
+    }
+
+    76% {
+        background: linear-gradient(to right, lightgreen 23%, lightcoral 23%, lightcoral 56%, yellow 56%, yellow 89%, lightgreen 89%, lightgreen 100%);
+    }
+
+    77% {
+        background: linear-gradient(to right, lightgreen 22%, lightcoral 22%, lightcoral 55%, yellow 55%, yellow 88%, lightgreen 88%, lightgreen 100%);
+    }
+
+    78% {
+        background: linear-gradient(to right, lightgreen 21%, lightcoral 21%, lightcoral 54%, yellow 54%, yellow 87%, lightgreen 87%, lightgreen 100%);
+    }
+
+    79% {
+        background: linear-gradient(to right, lightgreen 20%, lightcoral 20%, lightcoral 53%, yellow 53%, yellow 86%, lightgreen 86%, lightgreen 100%);
+    }
+
+    80% {
+        background: linear-gradient(to right, lightgreen 19%, lightcoral 19%, lightcoral 52%, yellow 52%, yellow 85%, lightgreen 85%, lightgreen 100%);
+    }
+
+    81% {
+        background: linear-gradient(to right, lightgreen 18%, lightcoral 18%, lightcoral 51%, yellow 51%, yellow 84%, lightgreen 84%, lightgreen 100%);
+    }
+
+    82% {
+        background: linear-gradient(to right, lightgreen 17%, lightcoral 17%, lightcoral 50%, yellow 50%, yellow 83%, lightgreen 83%, lightgreen 100%);
+    }
+
+    83% {
+        background: linear-gradient(to right, lightgreen 16%, lightcoral 16%, lightcoral 49%, yellow 49%, yellow 82%, lightgreen 82%, lightgreen 100%);
+    }
+
+    84% {
+        background: linear-gradient(to right, lightgreen 15%, lightcoral 15%, lightcoral 48%, yellow 48%, yellow 81%, lightgreen 81%, lightgreen 100%);
+    }
+
+    85% {
+        background: linear-gradient(to right, lightgreen 14%, lightcoral 14%, lightcoral 47%, yellow 47%, yellow 80%, lightgreen 80%, lightgreen 100%);
+    }
+
+    86% {
+        background: linear-gradient(to right, lightgreen 13%, lightcoral 13%, lightcoral 46%, yellow 46%, yellow 79%, lightgreen 79%, lightgreen 100%);
+    }
+
+    87% {
+        background: linear-gradient(to right, lightgreen 12%, lightcoral 12%, lightcoral 45%, yellow 45%, yellow 78%, lightgreen 78%, lightgreen 100%);
+    }
+
+    88% {
+        background: linear-gradient(to right, lightgreen 11%, lightcoral 11%, lightcoral 44%, yellow 44%, yellow 77%, lightgreen 77%, lightgreen 100%);
+    }
+
+    89% {
+        background: linear-gradient(to right, lightgreen 10%, lightcoral 10%, lightcoral 43%, yellow 43%, yellow 76%, lightgreen 76%, lightgreen 100%);
+    }
+
+    90% {
+        background: linear-gradient(to right, lightgreen 09%, lightcoral 09%, lightcoral 42%, yellow 42%, yellow 75%, lightgreen 75%, lightgreen 100%);
+    }
+
+    91% {
+        background: linear-gradient(to right, lightgreen 08%, lightcoral 08%, lightcoral 41%, yellow 41%, yellow 74%, lightgreen 74%, lightgreen 100%);
+    }
+
+    92% {
+        background: linear-gradient(to right, lightgreen 07%, lightcoral 07%, lightcoral 40%, yellow 40%, yellow 73%, lightgreen 73%, lightgreen 100%);
+    }
+
+    93% {
+        background: linear-gradient(to right, lightgreen 06%, lightcoral 06%, lightcoral 39%, yellow 39%, yellow 72%, lightgreen 72%, lightgreen 100%);
+    }
+
+    94% {
+        background: linear-gradient(to right, lightgreen 05%, lightcoral 05%, lightcoral 38%, yellow 38%, yellow 71%, lightgreen 71%, lightgreen 100%);
+    }
+
+    95% {
+        background: linear-gradient(to right, lightgreen 04%, lightcoral 04%, lightcoral 37%, yellow 37%, yellow 70%, lightgreen 70%, lightgreen 100%);
+    }
+
+    96% {
+        background: linear-gradient(to right, lightgreen 03%, lightcoral 03%, lightcoral 36%, yellow 36%, yellow 69%, lightgreen 69%, lightgreen 100%);
+    }
+
+    97% {
+        background: linear-gradient(to right, lightgreen 02%, lightcoral 02%, lightcoral 35%, yellow 35%, yellow 68%, lightgreen 68%, lightgreen 100%);
+    }
+
+    98% {
+        background: linear-gradient(to right, lightgreen 01%, lightcoral 01%, lightcoral 34%, yellow 34%, yellow 67%, lightgreen 67%, lightgreen 100%);
+    }
+
+    99% {
+        background: linear-gradient(to right, lightcoral 33%, yellow 33%, yellow 66%, lightgreen 66%, lightgreen 100%);
+    }
+
+    100% {
+        background: linear-gradient(to right, lightcoral 33%, yellow 33%, yellow 66%, lightgreen 66%, lightgreen 100%);
+    }
+
+}

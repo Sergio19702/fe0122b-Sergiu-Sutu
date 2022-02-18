@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" struttura="IE=edge">
+    <meta name="viewport" struttura="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/changecolor.css">
+    <title>La mia calcolatrice in JS</title>
+</head>
+<body>
+    <h1>La mia calcolatrice in JS</h1>
+    <div id="divprincipale">
+        
+        <div class="struttura">
+            <input type="text" name="display" id="calcolatrice" class="display" readonly="true" >
+         </div>
+         <div class="struttura">
+           <div class="struttura">
+               <input type="submit" id="7" value="7" onclick="numero(this.id)" class="pulsante">
+               <input type="submit" id="8" value="8" onclick="numero(this.id)" class="pulsante">
+               <input type="submit" id="9" value="9" onclick="numero(this.id)" class="pulsante">
+               <input type="submit" id="/" value="/" onclick="numero(this.id)" class="pulsante">
+           </div>
+           <div class="struttura">
+               <input type="submit" id="4" value="4" onclick="numero(this.id)" class="pulsante">
+               <input type="submit" id="5" value="5" onclick="numero(this.id)" class="pulsante">
+               <input type="submit" id="6" value="6" onclick="numero(this.id)" class="pulsante">
+               <input type="submit" id="*" value="X" onclick="numero(this.id)" class="pulsante">
+           </div>
+           <div class="struttura">
+                <input type="submit" id="1" value="1" onclick="numero(this.id)" class="pulsante">
+                <input type="submit" id="2" value="2" onclick="numero(this.id)" class="pulsante">
+                <input type="submit" id="3" value="3" onclick="numero(this.id)" class="pulsante">
+                <input type="submit" id="-" value="-" onclick="numero(this.id)" class="pulsante">
+            </div>
+            <div class="struttura">
+               <input type="submit" value="C" onclick="cancella()" class="pulsante">
+               <input type="submit" id="0" value="0" onclick="numero(this.id)" class="pulsante">
+               <input type="submit" id="." value="." onclick="numero(this.id)" class="pulsante">
+               <input type="submit" id="+" value="+" onclick="numero(this.id)" class="pulsante">
+             </div>
+             <div class="struttura">
+                  <button value="=" onclick="operazione()" id="uguale" class="pulsante">=</button>
+              </div>
+          </div>
+    </div>
+    <script src="assets/js/script.js">
+    
+    </script>
+
+
+</body>
+</html>

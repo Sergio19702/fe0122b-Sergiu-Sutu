@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+}
+
+
+.pulsante {
+    background-color: lightcoral;
+    color: yellow;
+    font-size: 22pt;
+    border: 3px solid black;
+    border-radius: 45%;
+    margin: 4px 2px;
+    height: 40px;
+    width: 46px;
+
+}
+
+.display {
+    background: white;
+    color: #175c97;
+    font-size: 24pt;
+    border: black solid 2px;
+    margin: 4px 2px;
+    margin-bottom: 40px;
+    width: 204px;
+    height: 40px;
+}
+.struttura {
+    margin-left: 2px;
+}
+
+#uguale {
+    width: 208px;
+    border-radius: 0%;
+}
+
+#divprincipale {
+    border: 5px solid black;
+    border-radius: 10%;
+    background-color: blue;
+    width: fit-content;
+    padding: 20px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
