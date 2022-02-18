@@ -28,7 +28,7 @@ header nav ul{
     display:none;
  }
  .menu:checked~nav ul{
-     right: 6%;
+     right: 56%;
  }
 .icnmenu{
     position:absolute;
@@ -92,7 +92,8 @@ header nav ul li a{
     border: 1px solid black;
     text-decoration: none;
     background-color: #6cc1e2;
-    background: linear-gradient(to right, #6cc1e2 , #392f7a);
+    background: linear-gradient(to right, #6cc1e2 41% , #392f7a 81%, red 100%);
+    background: linear-gradient(to left, #6cc1e2 41% , #392f7a 81%, red 20%); );
     padding: 13px;
 }
 .intro .button{
