@@ -7,5 +7,5 @@ function numero(dato){
  }
  
  function cancella() { 
-  document.getElementById("calcolatrice").value=""; 
+  document.getElementById("calcolatrice").value="";
  }
