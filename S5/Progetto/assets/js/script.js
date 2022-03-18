@@ -1,7 +1,4 @@
 
-
-
-
 document.querySelector('#add').addEventListener('click', function(){
 let valore= document.querySelector('#testo').value;
 
